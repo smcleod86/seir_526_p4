@@ -20,7 +20,7 @@ https://scott772250.invisionapp.com/freehand/Crop-sense-CrxO94ekT
 
 
 ## ERD
-![P4 ERD](./img/p4ERD.png)
+![P4 ERD](./imgs/p4ERD.png)
 https://app.lucidchart.com/invitations/accept/5c0613dc-191b-4dae-881e-de8ab411d117
 
 ## User Flow
