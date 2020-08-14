@@ -18,5 +18,10 @@ https://trello.com/b/hEUqDcTh/p4-pitch
 ![P4 Wireframe](./imgs/p4Wireframe.png)
 https://scott772250.invisionapp.com/freehand/Crop-sense-CrxO94ekT
 
+
+## ERD
+![P4 ERD](./img/p4ERD.png)
+https://app.lucidchart.com/invitations/accept/5c0613dc-191b-4dae-881e-de8ab411d117
+
 ## User Flow
 With this app I would like to create an opportunity for the user to be able to take charge of their plant/crop growing endeavor, and be able to keep track of important metrics that, if tracked and accounted for would be able to help improve crop quality, and yield. After creating an account and signing in, the user will have the opportunity to create a list of different "locations" where they would like to monitor. An individual gardening in their back yard could use this app to enter type of crop, frequency of watering, amount of water, fertilizer schedules, as well as temperature, in order to be able to track more closely the growth of their garden, and use this information to formulate plans for future planting.
