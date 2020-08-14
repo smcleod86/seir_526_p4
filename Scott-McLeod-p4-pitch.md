@@ -10,7 +10,7 @@ New Tech: React-Bootstrap-Table or maybe D3.js. I need to look more at D3.
 4. Potential roadblocks that I can currently see include still not being super comfortable with React, and also finding a way in which to display the information I plan on displaying in a way that clearly shows a correlation between care and progress.
 
 ## Trello:
-https://trello.com/b/hEUqDcTh/p4-pitch
+![P4 Trello](./imgs/p4Trello.png)
 
 
 ## WireFrames: 
